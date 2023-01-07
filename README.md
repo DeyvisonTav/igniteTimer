@@ -51,6 +51,9 @@ Alem de usar react-router-dom para adcionar as rotas a aplicação.
   <img alt="IgniteTimer" title="#IgniteTimer" src="./src/assets/Web 3.png" width="400px">
 </p>
 
+ <img alt="IgniteTimer" title="#IgniteTimer" src="./src/assets/Web 4.png" width="400px">
+</p>
+
 
 ---
 
